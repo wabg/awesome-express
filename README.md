@@ -27,6 +27,7 @@
 ## 中间件
 
 - [Multer](https://github.com/expressjs/multer) - 官方推荐的文件上传中间件。
+- [body-parser](https://github.com/expressjs/body-parser) - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 - <del>[connect-multiparty](https://github.com/expressjs/connect-multiparty)</del> - 官方的文件上传中间件(不推荐使用)
 - [express-jwt](#) - 
 - [node-images](https://github.com/zhangyuanwei/node-images) - 轻量级跨平台图像编解码库。
