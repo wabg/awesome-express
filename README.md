@@ -73,9 +73,14 @@
 - [Express - 简单介绍 Express·简单心理技术团队](https://jiandanxinli.github.io/2016-08-09.html)
 - [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
 - [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
+- [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 
 ## 例子
 
 - [Express + MongoDB + Vue.js 搭建的 Web 应用](https://github.com/WecanStudio/wecanstudio-site)
 - [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple)
 - [Express 4.x + MongoDB 实现CRUD](https://github.com/liuxuanqiang/Express_MongoDb_Demo)
+- [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+- [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku)
+- [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express)
+- [微信公共账号服务](https://github.com/node-weixin/node-weixin-express)
