@@ -87,6 +87,7 @@ _关于Express教程、新闻等文章搜集_
 - [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 - [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 - [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
+- [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 - [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 
 ## 例子
