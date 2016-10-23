@@ -7,6 +7,7 @@
 - [官方网站](#官方网站)
 - [中文文档](#中文文档)
 - [中间件](#中间件)
+- [工具](#工具)
 - [例子](#例子)
 - [文章](#文章)
 
@@ -25,10 +26,6 @@
 - [Multer](https://github.com/expressjs/multer) - 官方推荐的文件上传中间件。
 - [body-parser](https://github.com/expressjs/body-parser) - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 - <del>[connect-multiparty](https://github.com/expressjs/connect-multiparty)</del> - 官方的文件上传中间件(不推荐使用)
-- [express-jwt](#) - 
-- [cross-env](https://www.npmjs.com/package/cross-env) - 处理跨平台环境变量设置的插件 
-- [node-images](https://github.com/zhangyuanwei/node-images) - 轻量级跨平台图像编解码库。
-- [lwip](https://github.com/EyalAr/lwip) - 对于Nodejs轻量级的图像处理器。
 - [cors](https://github.com/expressjs/cors) - 跨域资源共享。
     - [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 - [morgan](https://github.com/expressjs/morgan) - HTTP请求日志中间件。
@@ -67,9 +64,19 @@
 - [vhost](https://github.com/expressjs/vhost) - 先前为 express.vhost。
 - [view-helpers](https://github.com/madhums/node-view-helpers) - Express 中间件模块，用于向视图提供常见助手方法。
 - [sriracha-admin](https://github.com/hdngr/siracha) - Express 中间件模块，为 Mongoose 动态生成管理站点。
+- [express-jwt](https://github.com/auth0/express-jwt) - 产生唯一的基于用户信息.令牌
 
+## 工具
+
+_Node工具不仅能在Express中使用，也能在其它Web框架中使用_
+
+- [cross-env](https://www.npmjs.com/package/cross-env) - 处理跨平台环境变量设置的插件 
+- [node-images](https://github.com/zhangyuanwei/node-images) - 轻量级跨平台图像编解码库。
+- [lwip](https://github.com/EyalAr/lwip) - 对于Nodejs轻量级的图像处理器。
 
 ## 文章
+
+_关于Express教程、新闻等文章搜集_
 
 - [Express - 简单介绍 Express·简单心理技术团队](https://jiandanxinli.github.io/2016-08-09.html)
 - [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
@@ -77,6 +84,7 @@
 - [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 
 ## 例子
+_Express的Demo例子搜集_
 
 - [Express + MongoDB + Vue.js 搭建的 Web 应用](https://github.com/WecanStudio/wecanstudio-site)
 - [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple)
