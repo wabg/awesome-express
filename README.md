@@ -51,6 +51,7 @@
 - [express-slash](https://github.com/ericf/express-slash) - Express 中间件模块，适用于对末尾斜杠有很严格要求的人员。
 - [express-stormpath](https://github.com/stormpath/stormpath-express) - 实现用户存储、认证、授权、SSO 和数据安全性的 Express 中间件模块。
 - [express-uncapitalize](https://github.com/jamiesteven/express-uncapitalize) - 中间件模块，用于将包含大写字母的 HTTP 请求转换为标准的小写形式。
+- [express-http-proxy](https://github.com/villadora/express-http-proxy) - 解决跨域问题。
 - [helmet](https://github.com/helmetjs/helmet) - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
 - [join-io](https://github.com/coderaiser/join-io) - 一个模块，用于实时联接文件以减少请求数目。
 - [method-override](https://github.com/expressjs/method-override) - 先前为 express.methodOverride。
