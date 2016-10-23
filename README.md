@@ -68,8 +68,10 @@
 
 ## 工具
 
-_Node工具不仅能在Express中使用，也能在其它Web框架中使用_
+_Node工具不依赖Express框架_
 
+- [generator-express](https://github.com/petecoop/generator-express) - 命令行工具Yeoman 生成 Express 应用程序
+- [express-generator](https://github.com/expressjs/generator) - 命令行工具 Express 应用程序生成器
 - [cross-env](https://www.npmjs.com/package/cross-env) - 处理跨平台环境变量设置的插件 
 - [node-images](https://github.com/zhangyuanwei/node-images) - 轻量级跨平台图像编解码库。
 - [lwip](https://github.com/EyalAr/lwip) - 对于Nodejs轻量级的图像处理器。
