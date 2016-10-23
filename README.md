@@ -26,6 +26,7 @@
 - [body-parser](https://github.com/expressjs/body-parser) - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 - <del>[connect-multiparty](https://github.com/expressjs/connect-multiparty)</del> - 官方的文件上传中间件(不推荐使用)
 - [express-jwt](#) - 
+- [cross-env](https://www.npmjs.com/package/cross-env) - 处理跨平台环境变量设置的插件 
 - [node-images](https://github.com/zhangyuanwei/node-images) - 轻量级跨平台图像编解码库。
 - [lwip](https://github.com/EyalAr/lwip) - 对于Nodejs轻量级的图像处理器。
 - [cors](https://github.com/expressjs/cors) - 跨域资源共享。
