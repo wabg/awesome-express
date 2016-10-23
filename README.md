@@ -87,6 +87,7 @@ _关于Express教程、新闻等文章搜集_
 - [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 - [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 - [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
+- [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 
 ## 例子
 _Express的Demo例子搜集_
@@ -97,4 +98,5 @@ _Express的Demo例子搜集_
 - [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 - [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku)
 - [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express)
-- [微信公共账号服务](https://github.com/node-weixin/node-weixin-express)
+- [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express)
+- [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo)
