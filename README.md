@@ -85,6 +85,7 @@ _关于Express教程、新闻等文章搜集_
 - [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
 - [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 - [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
+- [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
 
 ## 例子
 _Express的Demo例子搜集_
