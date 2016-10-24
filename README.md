@@ -111,8 +111,11 @@ _关于Express教程、新闻等文章搜集_
   - [mongoose的增删改](http://www.html-js.cn/details/EyE4TTcex.html)
   - [mongoose 查询操作](http://www.html-js.cn/details/EJJnTT9xg.html)
 - [socket.io 集成到express4通过路由访问](http://www.html-js.com/article/3285)
+- [用 Docker 搭建 Node Express 应用](http://docs-static.daocloud.io/docker-frontend/docker-node-express)
+- [基于 PhantomJS + Node + Express + VueJS 1.x 的服务端渲染实践](https://segmentfault.com/a/1190000006695341)
 
 ## 例子
+
 _Express的Demo例子搜集_
 
 - [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views)
@@ -127,4 +130,5 @@ _Express的Demo例子搜集_
 - [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express)
 - [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express)
 - [简单的 Vue2 + Webpack2  + Express + 热更新工程模板](https://github.com/hilongjw/vue-ssr-hmr-template)
+- [Node + Express + VueJS 1.x 的服务端渲染实践](https://github.com/jrainlau/vue1.x-ssr-demo)
 - [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo)
