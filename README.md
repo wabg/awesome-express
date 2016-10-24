@@ -110,7 +110,7 @@ _关于Express教程、新闻等文章搜集_
   - [JADE模版引擎](http://www.html-js.cn/details/4y8Lnp5eg.html)
   - [mongoose的增删改](http://www.html-js.cn/details/EyE4TTcex.html)
   - [mongoose 查询操作](http://www.html-js.cn/details/EJJnTT9xg.html)
-  - [socket.io 集成到express4通过路由访问](http://www.html-js.com/article/3285)
+- [socket.io 集成到express4通过路由访问](http://www.html-js.com/article/3285)
 
 ## 例子
 _Express的Demo例子搜集_
@@ -126,4 +126,5 @@ _Express的Demo例子搜集_
 - [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku)
 - [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express)
 - [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express)
+- [简单的 Vue2 + Webpack2  + Express + 热更新工程模板](https://github.com/hilongjw/vue-ssr-hmr-template)
 - [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo)
