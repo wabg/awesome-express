@@ -82,6 +82,7 @@ _Node工具不依赖Express框架_
 
 _关于Express教程、新闻等文章搜集_
 
+- [阮一峰 - Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
 - [Express - 简单介绍 Express·简单心理技术团队](https://jiandanxinli.github.io/2016-08-09.html)
 - [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
 - [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
@@ -89,10 +90,35 @@ _关于Express教程、新闻等文章搜集_
 - [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
 - [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 - [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
+- [webpack+vue+vux+express+lowdb实践](https://segmentfault.com/a/1190000006998791)
+- [基于 Express+Gulp+BrowserSync 搭建高性能的前端开发环境](https://www.kisnows.com/2015/11/02/dev-environment-Express-Gulp-BrowserSync/)
+- [Express深入解读](http://www.html-js.com/article/Express-indepth-understanding-of-learning-notes%203213)
+- 关于 Express 4.8.x 的相关基础文档
+  - [概述](http://www.html-js.cn/details/E1LuMa5ee.html)
+  - [安装和使用](http://www.html-js.cn/details/NJ0nXpqxg.html)
+  - [编写第一个Express应用](http://www.html-js.cn/details/EyCvEpqxe.html)
+  - [配置应用程序](http://www.html-js.cn/details/NkQMr65gl.html)
+  - [路由器、响应与渲染](http://www.html-js.cn/details/E1zH8p9gg.html)
+  - [路由详解](http://www.html-js.cn/details/416QvT5le.html)
+  - [Request 对象实例讲解](http://www.html-js.cn/details/Ey2Cwpcll.html)
+  - [Response 响应对象](http://www.html-js.cn/details/N1GMY6clx.html)
+  - [路由权限控制技巧](http://www.html-js.cn/details/N1LYtaqgl.html)
+  - [资源分离技巧](http://www.html-js.cn/details/VyP-cacgx.html)
+  - [Express 中间件原理](http://www.html-js.cn/details/Vy1t969gx.html)
+  - [必备中间件的使用](http://www.html-js.cn/details/Ek6Zja9xg.html)
+  - [EJS 模版引擎](http://www.html-js.cn/details/E1hKsp9eg.html)
+  - [JADE模版引擎](http://www.html-js.cn/details/4y8Lnp5eg.html)
+  - [mongoose的增删改](http://www.html-js.cn/details/EyE4TTcex.html)
+  - [mongoose 查询操作](http://www.html-js.cn/details/EJJnTT9xg.html)
+  - [socket.io 集成到express4通过路由访问](http://www.html-js.com/article/3285)
 
 ## 例子
 _Express的Demo例子搜集_
 
+- [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views)
+- [V-Tom - 一个基于Node.js,Express,Mongodb,vue的博客](https://github.com/hstarorg/rest-express)
+- [利用express简化rest api开发](https://github.com/hstarorg/rest-express)
+- [前端基于webpack+vue+vux，后端基于express+lowdb](https://github.com/lianer/meal-ticket)
 - [Express + MongoDB + Vue.js 搭建的 Web 应用](https://github.com/WecanStudio/wecanstudio-site)
 - [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple)
 - [Express 4.x + MongoDB 实现CRUD](https://github.com/liuxuanqiang/Express_MongoDb_Demo)
