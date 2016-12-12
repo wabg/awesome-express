@@ -113,6 +113,7 @@ _关于Express教程、新闻等文章搜集_
 - [socket.io 集成到express4通过路由访问](http://www.html-js.com/article/3285)
 - [用 Docker 搭建 Node Express 应用](http://docs-static.daocloud.io/docker-frontend/docker-node-express)
 - [基于 PhantomJS + Node + Express + VueJS 1.x 的服务端渲染实践](https://segmentfault.com/a/1190000006695341)
+- [Node 进阶：express 默认日志组件 morgan 从入门使用到源码剖析](https://gold.xitu.io/post/584e00490ce463005c60b032?utm_source=gold_browser_extension)
 
 ## 例子
 
