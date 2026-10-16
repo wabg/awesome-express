@@ -68,6 +68,7 @@
 - [view-helpers](https://github.com/madhums/node-view-helpers) - Express 中间件模块，用于向视图提供常见助手方法。
 - [sriracha-admin](https://github.com/hdngr/siracha) - Express 中间件模块，为 Mongoose 动态生成管理站点。
 - [express-jwt](https://github.com/auth0/express-jwt) - 产生唯一的基于用户信息.令牌
+- [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) - 安全中间件，提供 IP 黑白名单、限流与自动封禁、渗透攻击检测。
 
 ## 工具
 
