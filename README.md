@@ -138,3 +138,4 @@ _Express的Demo例子搜集_
 - [简单的 Vue2 + Webpack2  + Express + 热更新工程模板](https://github.com/hilongjw/vue-ssr-hmr-template)
 - [Node + Express + VueJS 1.x 的服务端渲染实践](https://github.com/jrainlau/vue1.x-ssr-demo)
 - [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo)
+- [基于 Express + TypeScript + SQLite 的邮箱验证码与魔法链接免密登录示例（Mailtrap 邮件 API）](https://github.com/manishgupta412/express-email-otp-login)
