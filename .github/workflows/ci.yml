@@ -8,10 +8,11 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 24
+          registry-url: 'https://registry.npmjs.org'
 
       - name: Create idoc config.
         run: |
@@ -19,6 +20,7 @@ jobs:
           site: "Awesome Express"
           keywords: Awesome Express,Awesome,Express
           openSource: https://github.com/wabg/awesome-express
+          homepage: https://wabg.github.io/awesome-express/
           menus:
             Home: index.html
             About: 
