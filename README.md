@@ -173,6 +173,7 @@ _Express的Demo例子搜集_
 - [前端基于webpack+vue+vux，后端基于express+lowdb](https://github.com/lianer/meal-ticket)
 - [Express + MongoDB + Vue.js 搭建的 Web 应用](https://github.com/WecanStudio/wecanstudio-site)
 - [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple)
+- [Express + TypeScript + SQLite 实现邮箱验证码 / 魔法链接免密登录](https://github.com/parv15/express-email-otp-login)
 - [Express 4.x + MongoDB 实现CRUD](https://github.com/liuxuanqiang/Express_MongoDb_Demo)
 - [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 - [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku)
