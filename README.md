@@ -111,6 +111,7 @@ Awesome Express
 - [sriracha-admin](https://github.com/hdngr/siracha) - Express 中间件模块，为 Mongoose 动态生成管理站点。
 - [express-jwt](https://github.com/auth0/express-jwt) - 产生唯一的基于用户信息.令牌
 - [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) - 安全中间件，提供 IP 黑白名单、限流与自动封禁、渗透攻击检测。
+- [@openreceive/express](https://openreceive.org/integrations/express) - 开源（MIT）收款中间件：在自己的 Express 应用中接收比特币闪电网络付款，直接到账自己的钱包（NWC）；客户也可用 USDT、USDC 支付，仍以比特币到账。
 
 ## 工具
 
